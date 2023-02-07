@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-129.0" y="94.0">com.bbj.sprint6di.services.GreetingServiceImpl</node>
+    <node x="-108.0" y="-33.0">com.bbj.sprint6di.services.GreetingService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.bbj.sprint6di.services.GreetingServiceImpl" target="com.bbj.sprint6di.services.GreetingService" relationship="REALIZATION">
+      <point x="0.0" y="-47.0" />
+      <point x="0.0" y="33.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="true" x="10.5" y="87.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
