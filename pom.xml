@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bbj</groupId>
-    <artifactId>sprint6di</artifactId>
+    <artifactId>spring6di</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sprint6di</name>
-    <description>sprint6di</description>
+    <name>spring6di</name>
+    <description>spring6di</description>
     <properties>
         <java.version>19</java.version>
     </properties>
